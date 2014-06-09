@@ -1,0 +1,98 @@
+body{
+	border:1px solid black;
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+	margin: auto;
+	background-color: #2B2B2B;
+}
+nav{
+	background-color: #67B71A;
+	width: 100%;
+	padding: 0px;
+
+}
+nav h2{
+	display: inline-block;
+	padding-left: 20px;
+	font-weight: 300;
+	font-size: 25px;
+}
+nav ul{
+	display: inline-block;
+	margin-left: 600px;
+}
+
+nav ul li{
+	display: inline-block;
+	padding: 5px;
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	margin-left: 0;
+	display: inline-block;
+}
+
+nav ul li a{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+	font-weight: 300;
+	font-size: 20px;
+}
+#startpage{
+	color: white;
+	width: 400px;
+	margin: auto;
+}
+.selected a{
+	color: black;
+}
+
+
+.subject ul{
+
+}
+.subject ul li{
+	list-style: none;
+	text-decoration: none;
+	width: 250px;
+	margin: 5px;
+	background-color: #828282;
+	text-align: center;
+}
+
+.subject ul li a{
+	text-decoration: none;
+	color:white;
+}
+
+.start_line{
+	border-right: 1px solid black;
+}
+.subject_line{
+	border-right: 1px solid black;
+}
+.add_line{
+
+}
+
+.summaries{
+	width: 800px;
+	margin-left: 400px;
+	background-color: #828282;
+	margin-top:-610px;
+	padding: 2px;
+
+}
+.summaryForm{
+	width: 600px;
+	border: 1px solid black;
+	margin: auto;
+}
+.summaryForm h3{
+	color: white;
+}
+
+#submit_input{
+	width: 400px;
+}
